@@ -55,7 +55,7 @@
 #define NDEBUG 1
 #define UE_BUILD_DEVELOPMENT 1
 #define UE_IS_ENGINE_MODULE 0
-#define UE_PROJECT_NAME MultiplayerShooter
+#define UE_PROJECT_NAME HuntingSession
 #define UE_TARGET_NAME MultiplayerShooterEditor
 #define UE_MODULE_NAME "MultiplayerShooter"
 #define UE_PLUGIN_NAME ""

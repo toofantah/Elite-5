@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"D:\\GameDevelopment\\Unreal Projects\\Multiplayer-Shooter-Game-UE5\\MultiplayerShooter\\Source\\MultiplayerShooter\\MultiplayerShooter.Build.cs",
-		"D:\\GameDevelopment\\Unreal Projects\\Multiplayer-Shooter-Game-UE5\\MultiplayerShooter\\Source\\MultiplayerShooter.Target.cs",
-		"D:\\GameDevelopment\\Unreal Projects\\Multiplayer-Shooter-Game-UE5\\MultiplayerShooter\\Source\\MultiplayerShooterEditor.Target.cs"
-	],
-	"EngineVersion": "5.0.2"
-}
