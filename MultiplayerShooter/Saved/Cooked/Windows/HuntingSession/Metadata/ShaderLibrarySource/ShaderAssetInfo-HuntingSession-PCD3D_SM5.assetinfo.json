@@ -323,9 +323,21 @@
 			]
 		},
 		{
+			"ShaderMapHash": "DA6A46441B03BD6405ECE8F12F79ED7F1B7E636A",
+			"Assets": [
+				"/Game/Characters/Mannequins/Materials/M_Mannequin"
+			]
+		},
+		{
 			"ShaderMapHash": "9B648DC8CDA725D9995FAC5ACD639609E71D78AA",
 			"Assets": [
 				"/Engine/OpenWorldTemplate/LandscapeMaterial/MI_ProcGrid"
+			]
+		},
+		{
+			"ShaderMapHash": "C145D2E6C8ED4E31B06F436B1233CC96D9412949",
+			"Assets": [
+				"/Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02"
 			]
 		}
 	]
