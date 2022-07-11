@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\gamedevelopment\\unreal projects\\elite-v\\elite5\\intermediate\\build\\win64\\unrealeditor\\inc\\elite5\\elite5.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\gamedevelopment\\unreal projects\\elite-v\\elite5\\intermediate\\build\\win64\\elite5editor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\gamedevelopment\\unreal projects\\elite-v\\elite5\\intermediate\\build\\win64\\unrealeditor\\development\\elite5\\definitions.elite5.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

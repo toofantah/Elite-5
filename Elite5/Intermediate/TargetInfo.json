@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Elite5",
+			"Path": "D:\\GameDevelopment\\Unreal Projects\\Elite-V\\Elite5\\Source\\Elite5.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Elite5Editor",
+			"Path": "D:\\GameDevelopment\\Unreal Projects\\Elite-V\\Elite5\\Source\\Elite5Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
