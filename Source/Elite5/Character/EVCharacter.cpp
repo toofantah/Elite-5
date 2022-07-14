@@ -4,6 +4,7 @@
 #include "EVCharacter.h"
 #include "GameFrameWork/SpringArmComponent.h"
 #include "Camera/CameraComponent.h"
+#include "GameFrameWork/CharacterMovementComponent.h"
 
 
 // Sets default values
@@ -20,6 +21,9 @@ AEVCharacter::AEVCharacter()
 	FollowCamera = CreateDefaultSubobject<UCameraComponent>(TEXT("FollowCamera"));
 	FollowCamera->SetupAttachment(CameraBoom, USpringArmComponent::SocketName);
 	FollowCamera->bUsePawnControlRotation = false;
+
+	bUseControllerRotationYaw = false;
+	GetCharacterMovement()->bOrientRotationToMovement = true;
 }
 
 
