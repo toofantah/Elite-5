@@ -56,8 +56,8 @@ Weapons are a different Class which they carry the actions they can equiped relo
 The weopon Class can be adjust and configure through the Fire Rate or Ammo Number Accuracy and Damage Range through the BP
 - **Scoped Weapons :**
   Sniper Rifles or any scoped weapons are Chategorized here,
-- ** Rifle :**
-- ** Pistol : **
-- ** Melee: **
+- *** Rifle : ***
+- *** Pistol : ***
+- *** Melee: ***
 ## Pickups :
 
