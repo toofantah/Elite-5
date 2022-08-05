@@ -30,7 +30,7 @@ With the Steam Multiplayer Pluggin that customly designed for Elite V the Projec
 
 - Make sure you get this part right. If you can't create sessions, come back to this and make sure your DefaultEngine.ini has these lines added to it.
 
-`[/Script/Engine.GameEngine]
+```[/Script/Engine.GameEngine]
 +NetDriverDefinitions=(DefName="GameNetDriver",DriverClassName="OnlineSubsystemSteam.SteamNetDriver",DriverClassNameFallback="OnlineSubsystemUtils.IpNetDriver")
  
 [OnlineSubsystem]
@@ -42,4 +42,12 @@ SteamDevAppId=480
 bInitServerOnClient=true
  
 [/Script/OnlineSubsystemSteam.SteamNetDriver]
-NetConnectionClassName="OnlineSubsystemSteam.SteamNetConnection"`
+NetConnectionClassName="OnlineSubsystemSteam.SteamNetConnection"```
+
+## Characters
+
+The Game will provide verity of Characters than can be Battle with eachother, you can choose your Client side Character and It will be projected through the server and Its Customizable.
+
+*** ONLY BASE CHARACTER EXIST AT THE MOMEMNT **
+
+
