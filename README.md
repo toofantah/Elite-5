@@ -12,15 +12,15 @@ The project will have features such as Inventory system, Battle behaviors and va
 
 Extra encounter topics
 
-Hand to hand Combat system
-AI development
-AI sensings
-Driveable objects (cars, guns)
-Mechanical behaviors (Guns, Machines)
-Hand To hand Combats
-Weapon upgrade system (Maybe)
-Particle system
-Animations
-Camera system
-Sequences
+-Hand to hand Combat system
+-AI development
+-AI sensings
+-Driveable objects (cars, guns)
+-Mechanical behaviors (Guns, Machines)
+-Hand To hand Combats
+-Weapon upgrade system (Maybe)
+-Particle system
+-Animations
+-Camera system
+-Sequences
 
