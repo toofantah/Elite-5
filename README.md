@@ -69,3 +69,7 @@ The weopon Class can be adjust and configure through the Fire Rate or Ammo Numbe
 
 
 
+https://user-images.githubusercontent.com/50558401/183065650-ec62516b-6fe3-41bc-bb7b-78d5208bd48d.mp4
+
+
+
