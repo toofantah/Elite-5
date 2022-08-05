@@ -24,3 +24,22 @@ Extra encounter topics
 - Camera system
 - Sequences
 
+# Steam Multiplayer
+
+With the Steam Multiplayer Pluggin that customly designed for Elite V the Project can be Play through steam sessions via Multiple Users, There some Configs that needs to be Modified for UE5.0.3 that I will update it in next step
+
+- Make sure you get this part right. If you can't create sessions, come back to this and make sure your DefaultEngine.ini has these lines added to it.
+
+`[/Script/Engine.GameEngine]
++NetDriverDefinitions=(DefName="GameNetDriver",DriverClassName="OnlineSubsystemSteam.SteamNetDriver",DriverClassNameFallback="OnlineSubsystemUtils.IpNetDriver")
+ 
+[OnlineSubsystem]
+DefaultPlatformService=Steam
+ 
+[OnlineSubsystemSteam]
+bEnabled=true
+SteamDevAppId=480
+bInitServerOnClient=true
+ 
+[/Script/OnlineSubsystemSteam.SteamNetDriver]
+NetConnectionClassName="OnlineSubsystemSteam.SteamNetConnection"`
