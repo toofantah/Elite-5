@@ -42,8 +42,8 @@ SteamDevAppId=480
 bInitServerOnClient=true
  
 [/Script/OnlineSubsystemSteam.SteamNetDriver]
-NetConnectionClassName="OnlineSubsystemSteam.SteamNetConnection"```
-
+NetConnectionClassName="OnlineSubsystemSteam.SteamNetConnection"
+```
 
 ## Characters
 
