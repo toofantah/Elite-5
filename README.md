@@ -51,4 +51,13 @@ The Game will provide verity of Characters than can be Battle with eachother, yo
 
 *** ONLY BASE CHARACTER EXIST AT THE MOMEMNT **
 
+## Weapons:
+Weapons are a different Class which they carry the actions they can equiped reload or dropped, the dropped weopons will carry the same of ammo class that it carries.
+The weopon Class can be adjust and configure through the Fire Rate or Ammo Number Accuracy and Damage Range through the BP
+- **Scoped Weapons :**
+  Sniper Rifles or any scoped weapons are Chategorized here,
+- ** Rifle :**
+- ** Pistol : **
+- ** Melee: **
+## Pickups :
 
